@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashenafi-Bir
+- 👋 Hi, I’m Ashenafi Birhanu
 - 👀 I’m interested in Programing and other Tech Services
 - 🌱 I’m currently Working at ADIB as software developer
 - 💞️ I’m looking to gain freelance works for part time
