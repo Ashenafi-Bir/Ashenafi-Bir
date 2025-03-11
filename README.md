@@ -1,5 +1,7 @@
-![Header](https://source.unsplash.com/1600x400/?technology,coding)
-
+<!-- Header Image -->
+<p align="center">
+  <img src="https://github.com/Ashenafi-Bir/Ashenafi-Bir/raw/main/assets/header.gif" alt="Header Image" width="100%" />
+</p>
 <h1 align="center">Hi there, I'm Ashenafi Birhanu 👋</h1>
 
 <p align="center">
